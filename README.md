@@ -1,8 +1,8 @@
-## NovaTrust Bank Performance Analysis
-# Project Overview
+# NovaTrust Bank Performance Analysis
+## Project Overview
 A complete end-to-end banking data analysis project focused on uncovering customer, transaction, revenue, profitability, and product performance insights to support data-driven business decisions.
 
-# 🔄 Project Workflow
+## 🔄 Project Workflow
 1. Data Cleaning — Power Query
 I started by using Power Query to prepare the raw banking dataset for analysis. This involved:
 Cleaning and transforming the raw data
